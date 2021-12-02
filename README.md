@@ -23,10 +23,10 @@
 So, i'm currently creating content for free for those who want 
 to learn more about cyber security:
 
-📱 IG: @dontstophacking
+📱 IG: [@dontstophacking](https://www.instagram.com/dontstophacking)
 
 I'm also creating *Bug Bounty* and *Hacking* contents at:
 
-👾 @thebughunter.io
+👾 [@thebughunter.io](https://www.instagram.com/thebughunter.io)
 
-🎩 @igdotdi
+🎩 [@igdotdi](https://www.instagram.com/igdotdi/)
