@@ -2,7 +2,8 @@
 ## Intro
 - 👋 Hi, I’m @trigoinfosec
 - ⚛️💻 I’m interested in science, tech, development and hacking (:
-- 📚 I’m currently learning JavaScript and my goal is to become a Full Stack Developer (yay!). 
+- 📚 I’m currently learning JavaScript and my goal is to become a Full Stack Dev
+- 🧐 My main goal in Infosec is to become an Exploit Developer 
 - 🤝 I’m looking to collaborate on some open source projects.
 
 ### Knowledge 
@@ -17,7 +18,8 @@
 ### Skills (already have or currently working on it)
 - ⛳ CTFs
 - 👩🏻‍💻 Pentesting
-- 🔎 Reverse Engineering
+- 🔎 Reverse Engineering and Exploit Development
+
 
 ### Jobs
 So, i'm currently creating content for free for those who want 
