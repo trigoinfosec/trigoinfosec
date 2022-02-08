@@ -27,7 +27,7 @@ to learn more about cyber security:
 
 📱 IG: [@dontstophacking](https://www.instagram.com/dontstophacking)
 
-✍️ Medium: [@dontstophacking](https://medium.com/@dontstophacking)
+✍️ Medium: [@hacknlearn](https://medium.com/@hacknlearn)
 
 I'm also creating *Bug Bounty* and *Hacking* contents at:
 
