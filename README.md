@@ -2,18 +2,17 @@
 ## Intro
 - 👋 Hi, I’m @trigoinfosec
 - ⚛️💻 I’m interested in science, tech, development and hacking (:
-- 📚 I’m currently learning JavaScript and my goal is to become a Full Stack Dev
-- 🧐 My main goal in Infosec is to become an Exploit Developer 
-- 🤝 I’m looking to collaborate on some open source projects.
+- 👾👩🏻‍💻 My main goal in Infosec is to become an Exploit Developer and find some critical bugs
+- 🤝 I’m open to collaborate on some open source projects.
 
-### Knowledge 
+### Knowledge n Study
 🕵🏻‍♀️ Cyberdefense (college)
 
 💻 Operating Systems
 
 🌐 Computer Networks
 
-🧬 Genetics (random, i know😂) 
+🧬 Genetics and Synthetic Biology
 
 ### Skills (already have or currently working on it)
 - ⛳ CTFs
