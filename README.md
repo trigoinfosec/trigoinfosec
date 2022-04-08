@@ -4,6 +4,7 @@
 - ⚛️💻 I’m interested in science, tech, development and hacking (:
 - 👾👩🏻‍💻 My main goal in Infosec is to become an Exploit Developer and find some critical bugs
 - 🤝 I’m open to collaborate on some open source projects.
+- 🗺️ I'm recording all my hacking journey here 👉🏻 [@hacknlearn](https://instagram.com/hacknlearn)
 
 ### Knowledge n Study
 🕵🏻‍♀️ Cyberdefense (college)
