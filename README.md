@@ -29,8 +29,4 @@ to learn more about cyber security:
 
 ✍️ Medium: [@hacknlearn](https://medium.com/@hacknlearn)
 
-I'm also creating *Bug Bounty* and *Hacking* contents at:
-
-👾 [@thebughunter.io](https://www.instagram.com/thebughunter.io)
-
-🎩 [@igdotdi](https://www.instagram.com/igdotdi/)
+👾 I'm also a team member @ [TheBugHunter.io](https://thebughunter.io). Go check them out! (:
