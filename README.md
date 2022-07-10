@@ -9,15 +9,15 @@
 ### Knowledge n Study
 🕵🏻‍♀️ Cyberdefense (college)
 
-💻 Operating Systems
+💻 Computer Science
 
-🌐 Computer Networks
+🙃 Hacking
 
 🧬 Genetics
 
 ### Skills (already have or currently working on it)
 - ⛳ CTFs
-- 👩🏻‍💻 Pentesting
+- 👩🏻‍💻 Low level Programming
 - 🔎 Reverse Engineering and Exploit Development
 
 
