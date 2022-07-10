@@ -28,5 +28,3 @@ to learn more about cyber security:
 📱 IG: [@dontstophacking](https://www.instagram.com/dontstophacking)
 
 ✍️ Medium: [@hacknlearn](https://medium.com/@hacknlearn)
-
-👾 I'm also a team member @ [TheBugHunter.io](https://thebughunter.io). Go check them out! (:
