@@ -13,7 +13,7 @@
 
 🌐 Computer Networks
 
-🧬 Genetics and Synthetic Biology
+🧬 Genetics
 
 ### Skills (already have or currently working on it)
 - ⛳ CTFs
